@@ -30,3 +30,8 @@ Deliverables:
 - Docs
 - Install scripts
 - Running example
+
+# Recommended Resources
+VR Development Platform : https://store.unity.com/
+
+A VR Toolkit for rapidly building VR solutions in Unity3d : https://github.com/thestonefox/VRTK or https://www.assetstore.unity3d.com/en/#!/content/64131
